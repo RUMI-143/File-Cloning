@@ -1,2 +1,2 @@
-from MIM import ____RUMI____
+from RUNI import ____RUMI____
 ____RUMI____()
